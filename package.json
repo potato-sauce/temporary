@@ -1,0 +1,11 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JooSmith/temporary.git",
+  "author": "Joos <joy2935298@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ant-design-vue": "^1.4.10"
+  }
+}
